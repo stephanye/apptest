@@ -1,7 +1,7 @@
 <?php
 #$access_link = 'http://192.168.1.91:9999/api/app/index.php?r=thread/post&v=4.0';
 // $access_link = 'http://www.xiziquan.com/index.php?r=thread/post&v=3.6';
-$access_link = 'http://localhost/pwbbs2014/api/app/index.php?r=thread/post&v=4.2';
+$access_link = 'http://localhost/pwbbs2014/api/app/index.php?r=thread/post&v=4.2.1';
 
 $data_params = [
 	'params' => [
